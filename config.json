@@ -8,6 +8,6 @@
   "max-followers": 80,
   "max-follow-requests": 80,
   "on-start": "https://hc-ping.com/e1e861a9-9329-4f54-b783-a3ff737b3121/start",
-  "on-done": "https://hc-ping.com/e1e861a9-9329-4f54-b783-a3ff737b3121/",
+  "on-done": "https://hc-ping.com/e1e861a9-9329-4f54-b783-a3ff737b3121",
   "on-fail": "https://hc-ping.com/e1e861a9-9329-4f54-b783-a3ff737b3121/fail"
 }
